@@ -6,3 +6,6 @@
 <a href="https://www.linkedin.com/in/renat-khabirov-renestel/">
   <img align="left" alt="Renat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://github.com/RenEstel">
+  <img align="left" alt="Renat`s Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
