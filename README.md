@@ -19,13 +19,20 @@
 <img alt="spotify" width="235px" src="https://github-readme-stats.vercel.app/api?username=RenEstel&show_icons=true&hide_border=true&theme=dracula" />
 </p>
 
+<p>
+<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=315x3vkvvbnyrdg2jrvkxd65dcum&cover_image=true&theme=default&bar_color_cover=true" /> -->
+</p>
+
 ![](https://www.codewars.com/users/RenEstel/badges/micro)
 
 <br />
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=RenEstel.RenEstel)
 
-I'm a full-stack developer based in Saint-Petersburg, on Russia. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. My experience involves the implementation of performance-driven, responsive applications using good practices and modern standards.
+I'm a full-stack developer based in Saint-Petersburg, on Russia. I'm a passionate learner who's always willing to learn
+and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life
+problems ✨. My experience involves the implementation of performance-driven, responsive applications using good
+practices and modern standards.
 
 ### 🛠 My tech stack:
 
@@ -49,5 +56,9 @@ I'm a full-stack developer based in Saint-Petersburg, on Russia. I'm a passionat
 I am currently open for full-time job in Russia, or remote work in abroad.
 
 ### Show some ❤️ by starring some of the repositories!
+
+<p>
+<!--<img alt="spotify" width="235px" src="https://github-readme-stats.vercel.app/api?username=RenEstel&show_icons=true&hide_border=true&theme=dracula" /> -->
+</p>
 
 ⭐️ From [RenEstel](https://github.com/RenEstel)
