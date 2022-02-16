@@ -48,6 +48,8 @@ I am currently open for full-time job in Russia, or remote work in abroad.
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=RenEstel&show_icons=true&hide_border=true&theme=dracula)
+<p align="center">
+<!--<img alt="spotify" width="235px" src="https://github-readme-stats.vercel.app/api?username=RenEstel&show_icons=true&hide_border=true&theme=dracula" /> -->
+</p>
 
 ⭐️ From [RenEstel](https://github.com/RenEstel)
