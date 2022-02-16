@@ -15,15 +15,10 @@
 <a href="https://www.facebook.com/renat.khabirov.renestel/">
   <img align="left" alt="Renat`s Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<p>
-<img alt="spotify" width="235px" src="https://github-readme-stats.vercel.app/api?username=RenEstel&show_icons=true&hide_border=true&theme=dracula" />
-</p>
-
-<p>
-<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=315x3vkvvbnyrdg2jrvkxd65dcum&cover_image=true&theme=default&bar_color_cover=true" /> -->
-</p>
 
 ![](https://www.codewars.com/users/RenEstel/badges/micro)
+
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=315x3vkvvbnyrdg2jrvkxd65dcum&cover_image=true&theme=default&bar_color_cover=true)]]
 
 <br />
 
