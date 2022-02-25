@@ -38,13 +38,15 @@ practices and modern standards.
 - **Java libraries:** Spring, Hibernate;
 
 ### 📫 How to reach me:
-- renkhabir@gmail.com | [LinkedIn](https://www.linkedin.com/in/renat-khabirov-renestel) | [Twitter](https://twitter.com/ren_estel)
+
+- renkhabir@gmail.com | [LinkedIn](https://www.linkedin.com/in/renat-khabirov-renestel)
+  | [Twitter](https://twitter.com/ren_estel)
 
 ### 💻 Some of my projects:
 
-| Project name                                            | Description | Technologies |
-|---------------------------------------------------------|-------------|--------------|
-| [Task Manager](https://github.com/RenEstel/hello_world) | Hello world | Html         |
+| Project name                                               | Description                   | Technologies |
+|------------------------------------------------------------|-------------------------------|--------------|
+| [renestel-core](https://github.com/RenEstel/renestel-core) | parent library for my project | maven        |
 
 ### 💌 Feel free to contact me if you have an open position that matches my skills.
 
